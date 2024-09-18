@@ -9,12 +9,12 @@
     {
       "src": "https://raw.githubusercontent.com/starrnerd/fluffy-octo-giggle/refs/heads/main/IMG_2003.jpeg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
       "src": "https://raw.githubusercontent.com/starrnerd/fluffy-octo-giggle/refs/heads/main/IMG_2002.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
